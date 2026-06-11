@@ -1,5 +1,6 @@
 # Netflix Content Analysis (EDA)
-
+Intern Name: Harshita Bhosale
+Intern ID: CITS3165
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Netflix Titles Dataset using Python and Pandas.
 
